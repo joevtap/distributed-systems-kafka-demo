@@ -123,6 +123,6 @@ The application uses the following environment variables:
 
 These variables can be configured in the `.env.development` file.
 
-Developed by [@joevtap](htts://github.com/joevtap) as part of a Distributed Systems course seminar at UNIFEI.
+Developed by [@joevtap](https://github.com/joevtap) as part of a Distributed Systems course seminar at UNIFEI.
 
 Last updated: April 18, 2025
